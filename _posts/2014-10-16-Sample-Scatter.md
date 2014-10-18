@@ -1,8 +1,3 @@
----
-layout: post
-title: Blogging Like a Hacker
----
-
     %matplotlib inline
     from numpy import random
     import matplotlib.pyplot as plt
