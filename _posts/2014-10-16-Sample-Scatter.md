@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Example page with ipynb plots."
+tags:
+    - python
+    - notebook
+---
+
     %matplotlib inline
     from numpy import random
     import matplotlib.pyplot as plt
